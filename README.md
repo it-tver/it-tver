@@ -5,4 +5,8 @@
 
 Подробнее о форуме можно узнать по адресу [http://it-tver.ru](http://it-tver.ru)
 
-Чтобы скачать материалы нажмите кнопку Download Zip в правом верхнем углу или выполните команду git clone https://github.com/rgordeev/it-tver.git в терминале.
+Чтобы скачать материалы нажмите кнопку Download Zip в правом верхнем углу или выполните команду 
+```
+git clone https://github.com/rgordeev/it-tver.git 
+```
+в терминале.
